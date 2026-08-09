@@ -27,7 +27,7 @@ How I think about development
 * Good architecture pays off long after the feature ships — clean code and clear boundaries matter more than quick hacks.
 * Security and auth aren't an afterthought — every project I build gets proper authentication and authorization from day one.
 * Shipping matters as much as building — a project isn't done until it's deployed, monitored, and reliable in production.
-
+ 
 Stack I reach for
 
 * Languages & Databases: JavaScript (ES6–ES2023), TypeScript, C, Java, MongoDB, PostgreSQL
