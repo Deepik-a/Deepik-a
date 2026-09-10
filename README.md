@@ -9,7 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/deepika2001ps/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/De_123epika/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="mailto:dps63660@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dpzssree22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepik-a&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
@@ -35,7 +35,7 @@ currently_exploring:
 - 🔭 I'm currently building **production-grade full-stack platforms** with type-safe, modular architecture
 - 🌱 Strengthening my **DSA, OOP, and system design** fundamentals alongside applied work
 - 💡 I believe security and auth are never an afterthought — every project gets it from day one
-- 📫 Reach me at **dps63660@gmail.com**
+- 📫 Reach me at **dpzssree22@gmail.com**
 
 <br/>
 
